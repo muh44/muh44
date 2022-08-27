@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-.
+
+
+
+git clone https://github.com/muh44/muh44
+
+cd muh44 
+
+bash muh44.sh
