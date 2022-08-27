@@ -21,13 +21,11 @@
  install on kali linux
  ---------------------
  
- sudo su 
- 
  git clone https://github.com/muh44/muh44.git
  
  cd muh44
  
- bash Muh.sh
+ sudo bash Muh.sh
  
  +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
