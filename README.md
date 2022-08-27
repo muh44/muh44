@@ -1,25 +1,27 @@
 ### Hi there 👋
 
-<!--
-**muh44/muh44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**muh44/muh44** 
 
-Here are some ideas to get you started:
+ _________________
+ install on termux  
+ -----------------
+ 
+ git clone https://github.com/muh44/muh44.git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ cd muh44 
 
-
-
-
-git clone https://github.com/muh44/muh44
-
-cd muh44 
-
-bash muh44.sh
+ bash Muh.sh
+=============================================================
+ _____________________
+ install on kali linux
+ ---------------------
+ 
+ sudo su 
+ 
+ git clone https://github.com/muh44/muh44.git
+ 
+ cd muh44
+ 
+ bash Muh.sh
+ 
+..............................................................
