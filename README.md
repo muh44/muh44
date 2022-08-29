@@ -1,6 +1,6 @@
  ### Hi there 👋
  
- this tool is used to hacck the front camera of the phone 
+ CamHacker is a camera Phishing tool. Send a phishing link to victim, if he/she gives access to camera, his/her photo will be captured!
  
  i am not responsible for any use of this tool *_*
  
