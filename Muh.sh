@@ -4,13 +4,13 @@
 # CamHacker
 # Version    : 1.5
 # Description: CamHacker is a camera Phishing tool. Send a phishing link to victim, if he/she gives access to camera, his/her photo will be captured!
-# Author     : KasRoudra
-# Github     : https://github.com/KasRoudra
-# Email      : kasroudrakrd@gmail.com
-# Credits    : Noob-Hackers, TechChipNet, LinuxChoice
-# Date       : 5-09-2021
+# Author     : aresha mohanad
+# Github     : https://github.com/muh44
+# Email      : its.me.192.168.15.1@gmail.com
+# Credits    : Noob-Hackers, TechChipNet, LinuxChoice, KasRoudra
+# Date       : 25-08-2022
 # License    : MIT
-# Copyright  : KasRoudra (2021-2022)
+# Copyright  : aresha mohanad (2019-2022)
 # Language   : Shell
 # Portable File
 # If you copy, consider giving credit! We keep our code open source to help others
@@ -18,7 +18,7 @@
 : '
 MIT License
 
-Copyright (c) 2022 KasRoudra
+Copyright (c) 2022 muh
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -554,14 +554,14 @@ fi
         echo -e "$red[ToolName]  ${cyan}  :[CamHacker]
 $red[Version]    ${cyan} :[${version}]
 $red[Description]${cyan} :[Camera Phishing tool]
-$red[Author]     ${cyan} :[KasRoudra]
-$red[Github]     ${cyan} :[https://github.com/KasRoudra]
+$red[Author]     ${cyan} :[aresha mohanad]
+$red[Github]     ${cyan} :[https://github.com/muh44]
 $red[Messenger]  ${cyan} :[https://m.me/KasRoudra]
-$red[Email]      ${cyan} :[kasroudrakrd@gmail.com]"
+$red[Email]      ${cyan} :[its.me.192.168.15.1@gmail.com]"
         printf "$ch_prompt"
         read about
     elif echo $option | grep -q "m"; then
-        xdg-open "https://github.com/KasRoudra/KasRoudra#My-Best-Works"
+        xdg-open "https://github.com/muh44/muh44#My-Best-Works"
     elif echo $option | grep -q "0"; then
         echo -e "\n${success}Thanks for using!\n"
         exit 0
